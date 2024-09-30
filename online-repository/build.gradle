@@ -101,7 +101,7 @@ dependencies {
 	implementation 'io.opentelemetry.instrumentation:opentelemetry-spring-boot-starter'
 	
 	// test
-	testImplementation 'org.instancio:instancio-junit:5.0.2 '
+	testImplementation 'org.instancio:instancio-junit:5.0.2'
 	
 	// http Clinet
 	implementation 'org.apache.httpcomponents.client5:httpclient5:5.3'
